@@ -13,9 +13,10 @@ An object that displays an alert message to the user.
 # Basic Config:
 
 1. Xcode 10.0 or above
-2. Swift 4.0 or above
-3. Development Target 10.0 or above
-4. Device Universal Supported
+2. Objective-C
+3. Swift 4.0 or above
+4. Development Target 10.0 or above
+5. Device Universal Supported
 
 # How it Works?
 
