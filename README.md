@@ -1,6 +1,10 @@
 # AlertController
 
-This is easy to use demo about UIAlertController with code held in one file and access in all other views.
+This is easy to use demo about UIAlertController with code held in one file and access in all other views. This demo is avaialble in both programming lanauage Objective-C & Swift.
+
+# What is AlertController
+
+An object that displays an alert message to the user.
 
 # Basic Config:
 
