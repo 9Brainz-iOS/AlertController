@@ -24,7 +24,7 @@ You just need to download this demo and run it inot SIMULATOR or REAL device wha
 
 There are two different project in this repositor:
 
-1. Objective-C (Utility.h & Utility.m file)
+1. **Objective-C** (Utility.h & Utility.m file)
 
 ```objective-c
 
@@ -52,7 +52,7 @@ shwoAlertControllerInViewController: (UIViewController *)vc withTitle: (nullable
 }
 ```
 
-2. Swift (Utility.swift file)
+2. **Swift** (Utility.swift file)
 
 ```swift
 static func shwoAlertControllerInViewController(vc: UIViewController, withTitle title: String?, andMessage message: String?, withButtons button: [String], completion:((_ index: Int) -> Void)!) -> Void
@@ -78,7 +78,7 @@ static func shwoAlertControllerInViewController(vc: UIViewController, withTitle 
 
 # License
 
-This line of codes are avaialble for public use by [9Brainz](https://www.9brainz.com). If you have any doubts or query regarding this code or any particular topic reagrding iOS Application development, Feel free to [Contact Us](https://9brainz.com/contact-us.html).
+This line of codes are avaialble for public use by [**9Brainz**](https://www.9brainz.com). If you have any doubts or query regarding this code or any particular topic reagrding iOS Application development, Feel free to [**Contact Us**](https://9brainz.com/contact-us.html).
 
 # Helpful!!
 
