@@ -6,6 +6,10 @@ This is easy to use demo about UIAlertController with code held in one file and 
 
 An object that displays an alert message to the user.
 
+# Output:
+
+![AlertController](UIAlertController.gif)
+
 # Basic Config:
 
 1. Xcode 10.0 or above
