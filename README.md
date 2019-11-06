@@ -26,7 +26,10 @@ There are two different project in this repositor:
 
 1. Objective-C (Utility.h & Utility.m file)
 
-```
+```objective-c
+
+typedef void (^ _Nullable completion)(int index);
+
 + (void)
 shwoAlertControllerInViewController: (UIViewController *)vc withTitle: (nullable NSString *)title andMessage: (nullable NSString *)message withButtons: (NSArray *)button withCompletion: (completion)completionBlock
 {
@@ -51,7 +54,7 @@ shwoAlertControllerInViewController: (UIViewController *)vc withTitle: (nullable
 
 2. Swift (Utility.swift file)
 
-```
+```swift
 static func shwoAlertControllerInViewController(vc: UIViewController, withTitle title: String?, andMessage message: String?, withButtons button: [String], completion:((_ index: Int) -> Void)!) -> Void
 {
     let alertController = UIAlertController(title: title, message: message, preferredStyle: .alert)
